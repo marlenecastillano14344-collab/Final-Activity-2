@@ -1,7 +1,7 @@
 <?php
 
 echo "Activity 1"
-echo "Name: Juan Dela Cruz <br>";
+echo "Name: Marlene D. Castillano <br>";
 print "Course: BSIT <br><br>";
 
 ?>
